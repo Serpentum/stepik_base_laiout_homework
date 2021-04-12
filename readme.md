@@ -15,7 +15,7 @@
 
 1) Конечноже HTML, я не использовал Pug потому, что еще не умею его использовать. Хотя мне хотелось, но тогда я бы переусложнил задачу =)
 
-2) Это SASS, люблю sass так же сильно как и ненавижу, помню беззаботные деньки когда я писал на ванильном css и не парился. Да, работа шла медленно, но боже, как же это было легко! Но нет! Им надо было добавить матиматику в долбанную верстку!
+2) Это SASS, люблю sass так же сильно как и ненавижу, помню беззаботные деньки когда я писал на ванильном css и не парился. Да, работа шла медленно, но боже, как же это было легко! Но нет!
 
 3) Gulp - его я исспользовал для того что бы sass компилился самостоятельно. Так же потому, что я слишком ленив для того чтобы сотни раз тыкать на перезагрузку страницы. Gulp - это то, что я понастоящему люблю! Я всегда стараюсь писать все таски сам, потаму, что люблю это делать!
 
@@ -46,7 +46,7 @@ The technology stack that I used:
 
 1) Of course, HTML, I didn’t use Pug because I don’t know how to use it yet. Although I wanted to, but then I would re-complicate the task =)
 
-2) This is SASS, I love sass as much as I hate, I remember carefree days when I wrote on vanilla css and did not steam. Yes, the work went slowly, but God, how easy it was! But no! They needed to add mathematics to the fucking layout!
+2) This is SASS, I love sass as much as I hate, I remember carefree days when I wrote on vanilla css and did not steam. Yes, the work went slowly, but God, how easy it was! But no!
 
 3) Gulp - I used it to compile sass on my own. It’s also because I'm too lazy to poke a page reload hundreds of times. Gulp is what I truly love! I always try to write all the tasks myself, because I like to do it!
 
